@@ -17,6 +17,6 @@ https://github.com/seanfitz34/Horiseon-Refactor
 
 ## Image
 
-(./assets/images/digital-marketing-meeting.jpg
+(./assets/images/digital-marketing-meeting.jpg)
 ---
 © 2022 Sean Fitzgerald
