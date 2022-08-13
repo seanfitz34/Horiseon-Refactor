@@ -1,4 +1,4 @@
-# Horiseon-Refactor
+# Horiseon Refactor
 
 ## This is my first challenge project!
 
